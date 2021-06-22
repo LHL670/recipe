@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d8d29646.chunk.css",
+    "main.js": "/static/js/main.27e7ebf3.chunk.js",
+    "main.js.map": "/static/js/main.27e7ebf3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.41b39f2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.41b39f2f.js.map",
+    "static/js/2.0bdd943a.chunk.js": "/static/js/2.0bdd943a.chunk.js",
+    "static/js/2.0bdd943a.chunk.js.map": "/static/js/2.0bdd943a.chunk.js.map",
+    "static/js/3.aa7caa9d.chunk.js": "/static/js/3.aa7caa9d.chunk.js",
+    "static/js/3.aa7caa9d.chunk.js.map": "/static/js/3.aa7caa9d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d8d29646.chunk.css.map": "/static/css/main.d8d29646.chunk.css.map",
+    "static/js/2.0bdd943a.chunk.js.LICENSE.txt": "/static/js/2.0bdd943a.chunk.js.LICENSE.txt",
+    "static/media/intro.css": "/static/media/ArchitectsDaughter-Regular.a8311c89.ttf",
+    "static/media/home.css": "/static/media/pancake.ec645826.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41b39f2f.js",
+    "static/js/2.0bdd943a.chunk.js",
+    "static/css/main.d8d29646.chunk.css",
+    "static/js/main.27e7ebf3.chunk.js"
+  ]
+}
